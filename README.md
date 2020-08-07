@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Masters of Applied Computing at University of Windsor.
 - 💼 &nbsp; 6 month of experience Working as a Full-stack web development Intern.
 - 🌱 &nbsp; Learning more about ML/AI and new technologies and frameworks used for Full-stack development.
-- ✍️ &nbsp; You will see me reading books and playing football in free time.
+- ✍️ &nbsp; You will see me reading books and playing football in recreational time.
 
 <h3> Connect with Me </h3>
 
