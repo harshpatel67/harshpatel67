@@ -18,10 +18,6 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshpatel67&show_icons=true&hide_borders=true)](https://github.com/harshpatel67)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
 ### Connect with me:
 
 [<img align="left" alt="https://harshpatel67.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,5 +27,6 @@
 [website]: https://harshpatel67.github.io/
 [twitter]: https://twitter.com/ErHarshPatel
 [linkedin]: https://www.linkedin.com/in/harshpatel67
+<br/>
 
 ⭐️ From [harshpatel67](https://github.com/harshpatel67)
