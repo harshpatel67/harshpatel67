@@ -18,7 +18,7 @@
 
 <br/>
 
-### Connect with me:
+<h3> Connect with Me </h3>
 
 [<img align="left" alt="https://harshpatel67.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -28,5 +28,4 @@
 [twitter]: https://twitter.com/ErHarshPatel
 [linkedin]: https://www.linkedin.com/in/harshpatel67
 <br/>
-
 ⭐️ From [harshpatel67](https://github.com/harshpatel67)
