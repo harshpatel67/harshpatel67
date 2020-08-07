@@ -8,16 +8,6 @@
 - 🌱 &nbsp; Learning more about ML/AI and new technologies and frameworks used for Full-stack development.
 - ✍️ &nbsp; You will see me reading books and playing football in free time.
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | JQuery
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
-- 🔧 &nbsp; Hibernate | Spring | MVC | Flask | Django 
-- 🖥 &nbsp; Eclipse | SQLyog | Atom | VS code
-
-<br/>
-
 <h3> Connect with Me </h3>
 
 [<img align="left" alt="https://harshpatel67.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,4 +18,15 @@
 [twitter]: https://twitter.com/ErHarshPatel
 [linkedin]: https://www.linkedin.com/in/harshpatel67
 <br/>
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | JQuery
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
+- 🔧 &nbsp; Hibernate | Spring | MVC | Flask | Django 
+- 🖥 &nbsp; Eclipse | SQLyog | Atom | VS code
+
+<br/>
+
+
 ⭐️ From [harshpatel67](https://github.com/harshpatel67)
