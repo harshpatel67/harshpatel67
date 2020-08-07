@@ -24,9 +24,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://harshpatel67.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://harshpatel67.github.io/]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ErHarshPatel]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/harshpatel67]
+[<img align="left" alt="https://harshpatel67.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[website]: https://harshpatel67.github.io/
+[twitter]: https://twitter.com/ErHarshPatel
+[linkedin]: https://www.linkedin.com/in/harshpatel67
 
 ⭐️ From [harshpatel67](https://github.com/harshpatel67)
