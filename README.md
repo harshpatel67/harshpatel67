@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing web applications and quick hacks.
 - 🎓 &nbsp; Studying Masters of Applied Computing at University of Windsor.
 - 💼 &nbsp; 6 month of experience Working as a Full-stack web development Intern.
 - 🌱 &nbsp; Learning more about ML/AI and new technologies and frameworks used for Full-stack development.
@@ -20,9 +19,9 @@
 <br/>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | JQuery
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
+- 💻 &nbsp; Python | Java | MERN stack 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | JQuery | AngularJs
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | Oracle | Microsoft SQl server
 - 🔧 &nbsp; Hibernate | Spring | MVC | Flask | Django 
 - 🖥 &nbsp; Eclipse | SQLyog | Atom | VS code
 
